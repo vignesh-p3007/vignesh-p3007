@@ -1,7 +1,7 @@
 # Hi there!👋 I'm Vignesh Poojari  
 ---
-🎓 Final Year Computer Science & Engineering Student at **A J Institute of Engineering and Technology, Mangaluru** 
-⭐ "Aspiring AI Engineer | Focused on building intelligent systems that bridge technology and real-world impact."
+🎓 Final Year Computer Science & Engineering Student at **A J Institute of Engineering and Technology, Mangaluru**   
+⭐ "Aspiring AI Engineer | Focused on building intelligent systems that bridge technology and real-world impact."  
 💡 Passionate about **Machine Learning, Computer Vision, and Full-Stack Web Development**  
 🚀 Actively building projects that apply AI to solve real-world problems
 
@@ -15,7 +15,7 @@
 - 💼 [LinkedIn](https://www.linkedin.com/in/vignesh-p3007)  
 - 📧 Email: **vigneshpoojari3007@gmail.com**  
 
-📂 Explore my projects below to see how I combine innovation and technology to build impactful solutions for society.
+📂 Explore my projects below to see how I combine innovation and technology to build impactful solutions for society.  
 
 ---
 [Download My Resume](Vignesh_Resume.pdf)
