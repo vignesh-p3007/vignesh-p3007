@@ -35,4 +35,4 @@
 ⭐ *"Aspiring AI Engineer | Focused on building intelligent systems that bridge technology and real-world impact."*  
 
 ---
-[Download My Resume](Vignesh_resume.pdf)
+[Download My Resume](Vignesh_Resume.pdf)
