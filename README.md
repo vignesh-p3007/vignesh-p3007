@@ -1,5 +1,4 @@
 # Hi there!👋 I'm Vignesh Poojari  
----
 ![](https://komarev.com/ghpvc/?username=vignesh-p3007&label=Profile%20views&color=blue&style=flat)
 ---
 🎓 Final Year Computer Science & Engineering Student at **A J Institute of Engineering and Technology, Mangaluru**   
