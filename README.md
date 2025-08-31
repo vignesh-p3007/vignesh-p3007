@@ -13,9 +13,10 @@
 
 ## 📫 Connect With Me
 - 💼 [LinkedIn](https://www.linkedin.com/in/vignesh-p3007)  
-- 📧 Email: **vigneshpoojari3007@gmail.com**  
+- 📧 Email: **vigneshpoojari3007@gmail.com**
+- 🔗 [Visit My Website](https://vignesh-p3007.github.io/portfolio)
 
 📂 Explore my projects below to see how I combine innovation and technology to build impactful solutions for society.  
 
 ---
-[Download My Resume](Vignesh_Resume.pdf)
+[Download My Resume](Vignesh-Full-Stack-Developer.pdf)
