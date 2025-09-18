@@ -10,7 +10,8 @@
 ## 🛠️ Tech Stack
 - **Programming:** Python, C++, JavaScript, HTML, CSS  
 - **Frameworks & Libraries:** Flask, React.js, TensorFlow, Keras 
-- **Databases & Tools:** MySQL, Git, GitHub, VS Code  
+- **Version Control & Tools:** Git, GitHub, vercel, Supabase, Hugging face, VS Code
+- **Databases:** MySQL, MongoDB, PostgreSQL
 - **Special Interests:** Deep Learning, Transfer Learning, CNNs, Computer Vision    
 
 ## 📫 Connect With Me
