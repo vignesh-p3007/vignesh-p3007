@@ -29,4 +29,4 @@
 
 ---
 
-![Download My Resume](/Vignesh-Full-Stack-Developer.pdf)  
+[Download My Resume](/Vignesh-Full-Stack-Developer.pdf)  
