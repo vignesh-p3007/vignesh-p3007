@@ -12,8 +12,7 @@
 ⚡ Fun fact: Started with small DBMS projects, now building AI-powered healthcare applications       
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vignesh-p3007) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vignesh-p3007) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vigneshpoojari3007@gmail.com) [![Portfolio](https://vignesh-p3007.github.io/portfolio/logo.png)](https://vignesh-p3007.github.io/portfolio/)
-
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vignesh-p3007) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vignesh-p3007) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vigneshpoojari3007@gmail.com) [![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABQAAAAUACAYAAAAY5P/3AAAAAXNSR0IArs4c6QAAAARzQklUCAgICHwIZIgAACAASURBVHic7N1Zc1znmSDoczITCwEQIABi3wGS4CJqMWXLLtstumpiOhzjip65oG7qbi6q7/ovmP4T/Qc6aipCipiYqXBXVbs9I6jctscSKS4SSHABAWIl9i0BJBKZe&logoColor=white)](https://vignesh-p3007.github.io/portfolio/)
 
 
 # 💻 Tech Stack:
@@ -25,5 +24,9 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vignesh-p3007&theme=github_dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ---
+
 📂 Explore my projects below to see how I combine innovation and technology to build impactful solutions for society.  
 
+---
+
+![Download My Resume](/Vignesh-Full-Stack-Developer.pdf)  
