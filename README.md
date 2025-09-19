@@ -12,7 +12,8 @@
 ⚡ Fun fact: Started with small DBMS projects, now building AI-powered healthcare applications       
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vignesh-p3007) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vignesh-p3007) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vigneshpoojari3007@gmail.com) [![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=About.me&logoColor=white)](https://vignesh-p3007.github.io/portfolio/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vignesh-p3007) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vignesh-p3007) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vigneshpoojari3007@gmail.com) [![Portfolio](https://vignesh-p3007.github.io/portfolio/logo.png)](https://vignesh-p3007.github.io/portfolio/)
+
 
 
 # 💻 Tech Stack:
