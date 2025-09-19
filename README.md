@@ -20,7 +20,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vignesh-p3007&theme=github_dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=vignesh-p3007&icon=0&color=6)](https://visitcount.itsvg.in)    
+![](https://komarev.com/ghpvc/?username=vignesh-p3007&label=Profile%20views&color=blue&style=flat)
 ---
 📂 Explore my projects below to see how I combine innovation and technology to build impactful solutions for society.  
 
